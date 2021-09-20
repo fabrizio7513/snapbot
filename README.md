@@ -1,0 +1,2 @@
+# snapbot
+Snapshot support bot
